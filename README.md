@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>CCNA - Network Technology (Routing & Switching)</b>
-  - [Exam Lab Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Exam Lab Report](https://github.com/nubie127/CCNA-Final-Project)
 - <b>CSA - Sophos & Fortinet</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>LINUX</b>
