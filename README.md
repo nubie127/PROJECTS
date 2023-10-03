@@ -10,7 +10,7 @@
   - [Linux Bash Terminal](https://github.com/nubie127/LINUX)
 - <b>Network Security Defense Foundations</b>
   - [Metasploitable Vulnerability Scans & Solutions](https://github.com/nubie127/Network_Security_Defense_Foundations)
-  - [CYSA+ Final Project](https://github.com/joshmadakor1/DecrypterPOC)
+  - [CYSA+ Final Project](https://github.com/nubie127/CYSA-)
 - <b>WAS Messaging</b>
   - [WAS I - Core Infrastructure (Administering a Microsoft SQL Database Infrastructure
 )](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
