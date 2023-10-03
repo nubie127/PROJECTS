@@ -14,7 +14,7 @@
 - <b>WAS Messaging</b>
   - [WAS I - Core Infrastructure (Administering a Microsoft SQL Database Infrastructure
 )](https://github.com/nubie127/WAS-1)
-  - [WAS II - Messaging](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [WAS II - Messaging](https://github.com/nubie127/WAS-2)
   - [WAS III - Windows Administration Security](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Certification:</h2>  
